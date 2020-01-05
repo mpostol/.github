@@ -60,18 +60,10 @@ Collaboration is a core to improve processes in any organization. It requires in
 
 ### [CommServer integration with the OOI](https://github.com/users/mpostol/projects/1)
 
-This project is aimed at `CommServer` software migration from on-premise subversion repository to GitHub and publishing it as the Open-source software (OSS). OSS is a type of computer software in which source code is released under a license in which the copyright holder grants users the rights to study, change, and distribute the software to anyone and for any purpose.
+`CommServer` is a software package to manage data transfer. Built-in technologies and algorithms provide a smart data transmission that automatically adapts its parameters to the process needs and underlying communication network capabilities. To learn more about `CommServer` software family visit the [software home page](http://www.commsvr.com/).
 
-The project will be used to manage the migration process of transferring multi-parts software from an on-premise subversion repository to a set of GitHub repositories.
+The `CommServer` software was written by CAS Lodz Poland. I am the founder and Executive Director of CAS. Now CAS is just an individual business activity conducted by me, so I decided to port this software to Open Source (OSS) and integrate it with the more general concept Object-Oriented Internet. OSS is a type of computer software in which source code is released under a license in which the copyright holder grants users the rights to study, change, and distribute the software to anyone and for any purpose.
 
-After migration, this project will aggregate the description of all activities addressing the software maintenance process.
-
-`CommServer` is a package of software to manage data transfer. Built-in technologies and algorithms provide a smart data transmission that automatically adapts its parameters to the process needs and underlying communication network capabilities.
-
-To learn more about `CommServer` software family visit the [software home page](http://www.commsvr.com/).
-
-The `CommServer` software was written by CAS Lodz Poland. I am the founder and Executive Director of CAS. Now CAS is just an individual business activity conducted by me, so I decided to move this software to Open Source and integrated it with the more general concept Object-Oriented Internet.
-
-The software import process is managed using independent project: [Management of the migration to open source process](https://github.com/commsvr-com/migration2os)
+The import process is managed using an independent project: [Management of the migration to open source process](https://github.com/commsvr-com/migration2os). However, main purpose of this project it to manage the transfer of the  multi-parts CommServer software from an on-premise subversion repository to a set of GitHub repositories and finally integrate it with the OOI.
 
 The linked repositories are listed below.
