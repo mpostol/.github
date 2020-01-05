@@ -2,9 +2,9 @@
 
 default community health files
 
-## Projects description
+## [Projects description](https://github.com/mpostol?tab=projects)
 
-### [Sponsorship Program project description](https://github.commsvr.com/AboutPartnershipProgram.md.html)
+### [Sponsorship Program](https://github.com/users/mpostol/projects/4)
 
 #### Scope
 
@@ -30,3 +30,34 @@ The project collect all task related to activity on my profiles:
 - [LinkedIn](https://www.linkedin.com/in/mpostol)
 - [Twitter](https://twitter.com/mpostol)
 - [Gitter](https://gitter.im/mpostol/OPC-UA-OOI)
+
+#### See also
+
+- [Sponsorship Program project description](https://github.commsvr.com/AboutPartnershipProgram.md.html)
+
+### [Publish CFIS](https://github.com/users/mpostol/projects/3)
+
+CAS Flight Inspection System of the radio navigation aids (CFIS) is used for the airborne evaluation of the accuracy and performance of ground navigation facilities. The system provides the capability to inspect the following aids:
+
+- ILS (instrument landing system),
+- MKS (ILS associated approach markers),
+- VOR (VHF omnidirectional range),
+- DME (distance measuring equipment),
+- NDB (non-directional beacon system),
+- VHF (communication) and radar systems
+
+### [Publish Smart Factory](https://github.com/users/mpostol/projects/2)
+
+[Smart Factory](http://www.cas.eu/Products/SmartFactory.aspx) software family - a workflow management system is a group of CAS applications that support automation of business processes, through their precise definition and control of the flow of information and synchronization of the internal and external participants’ activities.
+
+Smart Factory applications support:
+
+- Group work in the field of logistics (Shepherd),
+- Customs clearing (Inward Process Relief),
+- Agile project management (Agile Workload Tracker).
+
+Collaboration is a core to improve processes in any organization. It requires information sharing as well as following precisely defined procedures. Both information and behavioral models must be consistent and fulfill business requirements leading to improvements in process performance measured using Key Performance Indicators in critical areas. To be useful for daily process management these indicators must be observable. To engage adoptive information models, control workflows and use Business Intelligence to measure the process performance our applications are deployed on the Microsoft SharePoint as a human-centric foundation using Web Applications to publish and share the content.
+
+### [CommServer integration with the OOI](https://github.com/users/mpostol/projects/1)
+
+The description must be recovered.
