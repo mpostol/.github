@@ -52,11 +52,14 @@ The main goal of this project is to prove that the implementation of the `Produc
 
 ## See also
 
+- Postół M., Szymczak P. (2021) Object-Oriented Internet Cloud Interoperability. In: Paszynski M., Kranzlmüller D., Krzhizhanovskaya V.V., Dongarra J.J., Sloot P.M. (eds) Computational Science – ICCS 2021. ICCS 2021. Lecture Notes in Computer Science, vol 12745. Springer, Cham. <https://doi.org/10.1007/978-3-030-77970-2_43>
+  - Available on [ResearchGate](https://www.researchgate.net/publication/352289895_Object-Oriented_Internet_Cloud_Interoperability)
+  - ICCS 2021: INTERNATIONAL CONFERENCE ON COMPUTATIONAL Presentation is available on [YouTube](https://youtu.be/yXH09wuWEcA)
 - Mariusz Postol, [Object Oriented Internet][OOI], [3rd International Conference on Innovative Network Systems and Applications](https://fedcsis.org/2015/inetsapp), 2015, [IEEE Xplore Digital Library][OOI] [![DOI](https://img.shields.io/badge/DOI-10.15439%2F2015F160-blue)](https://fedcsis.org/proceedings/2015/pliks/160.pdf)
 - [Object-Oriented Internet - reactive visualization of asynchronous data using AZURE services \(Networking.Gateway2Azure\)][Networking.Gateway2Azure]
 - [The Reactive Extensions for .NET \( ReactiveX\)][ReactiveX]
 
 [OOI]:https://ieeexplore.ieee.org/abstract/document/7321562
 [PO]:https://github.com/mpostol/ProcessObserver
-[Networking.Gateway2Azure]:https://github.com/mpostol/OPC-UA-OOI/projects/15
+[Networking.Gateway2Azure]:https://www.researchgate.net/publication/352289895_Object-Oriented_Internet_Cloud_Interoperability
 [ReactiveX]:http://reactivex.io/
