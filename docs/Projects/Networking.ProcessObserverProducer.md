@@ -1,10 +1,14 @@
 # Machine to Sensors (M2S) connectivity based on Process-Observer
 
-## [Back to GitHub](https://github.com/mpostol/OPC-UA-OOI)
-
 ## Keywords
 
-OPCUA, Process-Observer, PubSub, Producer, Reactive communication, ReactiveX
+`OPCUA`, `Process-Observer`, `PubSub`, `Producer`, `Reactive communication`, `ReactiveX`
+
+## Executive Summary
+
+According to the [Reactive Networking of Semantic-Data Library](https://commsvr.gitbook.io/ooi/reactive-communication/semanticdata) architecture, the bindings between the local repository `DataRepository` (i.e. a real-time process replica) and the message content items are provided by the `IBinding` interface and its basic implementation `Binding` class. This class is responsible to decode the data from the format used to construct the message to the syntax required by the local type. It is assumed that `IBinding` abstraction can be applied to provide interconnection with a vast variety of data sources and destinations, including plant floor devices.
+
+The main goal of this project is to prove that the implementation of the `Producer` role fetching data from `Process-Observer` will make the OPC UA Machine to Sensors Connectivity (M2S) possible. Converging results of this project and [Networking.Gateway2Azure][Networking.Gateway2Azure] will make Cloud to Sensors (C2S) connectivity possible.
 
 ## Subject
 
