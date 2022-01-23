@@ -20,7 +20,7 @@ According to the [Reactive Networking of Semantic-Data Library](https://commsvr.
 
 The main goal of this project is to prove that the implementation of the `Producer` role fetching data from `Process-Observer` will make the OPC UA Machine to Sensors Connectivity (M2S) possible. Converging results of this project and [Networking.Gateway2Azure][Networking.Gateway2Azure] will make Cloud to Sensors (C2S) connectivity possible.
 
-To get more check out the [project description](https://github.com/mpostol?tab=projects#:~:text=Machine%20to%20Sensors%20(M2S)%20connectivity%20based%20on%20Process%2DObserver)
+To get more check out the [project description](https://github.com/mpostol?tab=projects#:~:text=Networking.ProcessObserverProducer)
 
 ## Subject
 
