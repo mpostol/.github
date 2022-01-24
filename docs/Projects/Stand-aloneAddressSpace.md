@@ -42,3 +42,4 @@ Recover implementation of the Address Space from
 ## See also
 
 - Mariusz Postol, [Machine to Machine Semantic-Data Based Communication: Comprehensive Survey](https://www.researchgate.net/publication/331633195_Machine_to_Machine_Semantic-Data_Based_Communication) in [Computer Game Innovations 2018](https://www.researchgate.net/publication/335524620_Computer_Game_Innovations_2018), Publisher: Lodz University of Technology Press; ISBN: 978-83-7283-999-2
+- [GitHub project entry](https://github.com/mpostol?tab=projects#:~:text=SemanticData.AddressSpace)
